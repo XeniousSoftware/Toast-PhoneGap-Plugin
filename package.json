@@ -1,6 +1,6 @@
 {
-  "name": "cordova-plugin-x-toast",
-  "version": "2.5.1",
+  "name": "xenious-cordova-plugin-x-toast",
+  "version": "1.0.0",
   "description": "This plugin allows you to show a Toast. A Toast is a little non intrusive buttonless popup which automatically disappears.",
   "cordova": {
     "id": "cordova-plugin-x-toast",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin.git"
+    "url": "git+https://github.com/XeniousSoftware/Toast-PhoneGap-Plugin.git"
   },
   "keywords": [
     "Toast",
@@ -35,7 +35,7 @@
   "author": "Eddy Verbruggen <eddyverbruggen@gmail.com> (https://github.com/EddyVerbruggen)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin/issues"
+    "url": "https://github.com/XeniousSoftware/Toast-PhoneGap-Plugin/issues"
   },
-  "homepage": "https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin#readme"
+  "homepage": "https://github.com/XeniousSoftware/Toast-PhoneGap-Plugin#readme"
 }
