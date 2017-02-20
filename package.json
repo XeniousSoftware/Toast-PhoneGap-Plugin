@@ -8,6 +8,7 @@
       "ios",
       "android",
       "wp8",
+      "windows",
       "blackberry10"
     ]
   },
@@ -24,6 +25,7 @@
     "cordova-ios",
     "cordova-android",
     "cordova-wp8",
+    "cordova-windows",
     "cordova-blackberry10"
   ],
   "engines": [
